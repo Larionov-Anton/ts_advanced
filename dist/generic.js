@@ -70,4 +70,3 @@ const ford = {
     year: 2020,
 };
 // ford.model = 'Ferari'
-//# sourceMappingURL=generic.js.map
